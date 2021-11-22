@@ -2,12 +2,10 @@
 
 # References
 
-https://www.pythoninformer.com/programming-techniques/programming-paradigms/
+https://docs.racket-lang.org/
 
-https://www.geeksforgeeks.org/programming-paradigms-in-python/
+http://progopedia.com/paradigm/metaprogramming/
 
-https://opensource.com/article/19/10/python-programming-paradigms
+http://progopedia.com/paradigm/reflective/
 
-https://www.kite.com/python/answers/how-to-format-a-float-as-currency-in-python
-
-https://www.w3schools.com/python/default.asp
+https://docs.racket-lang.org/guide/set_.html
